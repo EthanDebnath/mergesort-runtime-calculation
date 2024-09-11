@@ -30,6 +30,9 @@ function x = f(n)
 
 ```
 
+![Working](pic.png)
+
+
 The function consists of two nested loops, both running from 1 to \(n\). Each inner loop executes a constant time operation `x = x + 1`.
 
 To determine the total number of operations, we calculate:
